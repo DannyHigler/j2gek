@@ -1,0 +1,12 @@
+Application has thrown an uncaught exception and is terminated:
+TypeError: Cannot read property 'key' of undefined
+    at C:\Users\dannyhi\Documents\My Web Sites\j2gek\jira.js:35:40
+    at Array.forEach (native)
+    at Request._callback (C:\Users\dannyhi\Documents\My Web Sites\j2gek\jira.js:32:25)
+    at Request.self.callback (C:\Users\dannyhi\Documents\My Web Sites\j2gek\node_modules\request\request.js:200:22)
+    at emitTwo (events.js:87:13)
+    at Request.emit (events.js:172:7)
+    at Request.<anonymous> (C:\Users\dannyhi\Documents\My Web Sites\j2gek\node_modules\request\request.js:1067:10)
+    at emitOne (events.js:82:20)
+    at Request.emit (events.js:169:7)
+    at IncomingMessage.<anonymous> (C:\Users\dannyhi\Documents\My Web Sites\j2gek\node_modules\request\request.js:988:12)

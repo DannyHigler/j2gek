@@ -1,0 +1,5 @@
+Express server listening on port \\.\pipe\6c252daa-e0aa-4975-a2dd-c2c63be667d1
+[90mGET / [32m200 [90m39ms - 164[0m
+[90mGET /board/133 [32m200 [90m8ms[0m
+total:34
+[{"text":"3"},{"text":"1"},{"text":"1"},{"text":"10020"},{"text":"10020"},{"text":"1"},{"text":"1"},{"text":"6"},{"text":"6"},{"text":"1"},{"text":"1"},{"text":"6"},{"text":"6"},{"text":"6"},{"text":"3"},{"text":"1"},{"text":"1"},{"text":"1"},{"text":"1"},{"text":"3"},{"text":"1"},{"text":"3"},{"text":"6"},{"text":"1"},{"text":"1"},{"text":"3"},{"text":"1"},{"text":"1"},{"text":"3"},{"text":"10015"},{"text":"10012"},{"text":"3"},{"text":"6"},{"text":"3"}]
