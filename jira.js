@@ -13,7 +13,7 @@ module.exports = {
             qs: { state: 'active' },
             headers:
            { 'cache-control': 'no-cache',
-               authorization: 'Basic ZC5oaWdsZXI6bm9hZmVlMDQ='
+               authorization: 'Basic AD5oaWdsZXI6bm9hZmVlMDQ='
            }
         };
 
